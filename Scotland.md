@@ -2,5 +2,5 @@ Mountains In Scotland
 ==================
 
 * Ben Eighe
-* Ben Nevis
 * Cairngorm
+* Aonach Eagach
